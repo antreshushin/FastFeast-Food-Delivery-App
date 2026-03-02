@@ -6,7 +6,8 @@ the Database.
 2. There will be 2 folders named food-delivery-fe and food-delivery-be which will contain 
 the files for frontend and backend respectively. 
 3. We hope the dump of our sql db would be imported and loaded into MySQL Workbench. 
-4. For Testing our application do the following: 
+4. For Testing our application do the following:
+ 
 a. For food-delivery-be (backend code) just unzip the folder and open the folder in 
 another instance of any code editor (lets say vscode). 
 b. If you don’t have nodejs installed please install nodejs from 
